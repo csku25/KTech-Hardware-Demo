@@ -1,7 +1,8 @@
 #proximity.py
 #must be named code.py on board (CircuitPython)
 
-# This demo uses a passive buzzer, programmable neopixel (RGB LED), and a HCSR04 sonar sensor.
+# This demo uses a Invector Labs Challenger RP2040 WiFi/BLE microcontroller,
+# a passive buzzer, programmable neopixel (RGB LED), and a HCSR04 sonar sensor.
 
 # As you move your hand closer, the sensor detects the distance, the microcontroller
 # chooses a color for the LED and makes it more intense depending on how close you get.
