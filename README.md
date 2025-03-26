@@ -11,3 +11,8 @@ Code: proximity.py<br />
 Board: ESP32 DevKit (WROOM32 USB-C)<br />
 IDE: Arduino IDE<br />
 Code: keyless_entry.ino<br />
+## Web Server Demo
+![alt text](https://github.com/csku25/KTech-Hardware-Demo/blob/main/photos/web_server.jpg?raw=true)<br />
+Board: Raspberry Pi Pico W<br />
+IDE: Thonny with Micropython interpreter<br />
+Code: web_server.py<br />
