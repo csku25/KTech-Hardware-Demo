@@ -19,7 +19,7 @@ from machine import Pin
 led = Pin('LED', Pin.OUT)
 
 # Wi-Fi credentials
-ssid = 'KU Guest WiFi' #placeholder
+ssid = 'KU Guest' #placeholder
 password = ''
 
 def webpage(random_value, state):
