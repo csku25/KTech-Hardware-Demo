@@ -16,3 +16,9 @@ Code: keyless_entry.ino<br />
 Board: Raspberry Pi Pico W<br />
 IDE: Thonny with Micropython interpreter<br />
 Code: web_server.py<br />
+## Wireless Toggle Demo
+![alt text](https://github.com/csku25/KTech-Hardware-Demo/blob/main/photos/rps.jpg?raw=true)<br />
+Board(s): ESP32 DevKit (WROOM32 USB-C)<br />
+IDE: Arduino IDE<br />
+Code: rps.py<br />
+Note: Was supposed to be Rock Paper Scissors game, could not make it work in time<br />
